@@ -1,0 +1,8 @@
+
+.agents/
+.cursor/
+dist
+.DS_Store
+.impeccable/
+*.local
+node_modules
